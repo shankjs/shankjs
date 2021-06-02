@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently undertaking Cloud Support & DevOps BootCamp. Am 2 months into it and loving it.
+🌱 I’m currently undertaking Cloud Support & DevOps BootCamp. Am 3 months into it and loving it.
 🔭 I’m currently working on getting my Azure Fundamentals, improving my python, ansible, dockers and more.
 
 [![shankjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankjs&show_icons=true&theme=algolia&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)\
